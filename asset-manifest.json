@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zizi/static/css/main.9e1adb30.css",
+    "main.js": "/zizi/static/js/main.f479f400.js",
+    "static/media/zizilogo.png": "/zizi/static/media/zizilogo.4151c13dee6e3b93c014.png",
+    "index.html": "/zizi/index.html",
+    "main.9e1adb30.css.map": "/zizi/static/css/main.9e1adb30.css.map",
+    "main.f479f400.js.map": "/zizi/static/js/main.f479f400.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1adb30.css",
+    "static/js/main.f479f400.js"
+  ]
+}
